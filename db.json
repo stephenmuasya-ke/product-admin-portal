@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Corn Flakes",
+      "description": "Crunchy golden corn flakes perfect for breakfast",
+      "origin": "USA",
+      "price": 250
+    },
+    {
+      "id": "2",
+      "name": "Oats",
+      "description": "Healthy whole grain oats for energy and fitness",
+      "origin": "Canada",
+      "price": 300
+    },
+    {
+      "id": "3",
+      "name": "Rice Krispies",
+      "description": "Light and crispy rice cereal",
+      "origin": "UK",
+      "price": 280
+    },
+    {
+      "id": "4",
+      "name": "Muesli",
+      "description": "Mixed grains with nuts and dried fruits",
+      "origin": "Switzerland",
+      "price": 350
+    },
+    {
+      "id": "5",
+      "name": "Chocolate Puffs",
+      "description": "Sweet chocolate-flavored breakfast cereal",
+      "origin": "Germany",
+      "price": 320
+    },
+    {
+      "name": "weetabix",
+      "description": "a well combines starch mixture for kids",
+      "origin": "kenya",
+      "price": "450",
+      "id": "UqMO9ocWkk0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
