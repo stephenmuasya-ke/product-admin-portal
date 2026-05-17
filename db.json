@@ -37,10 +37,10 @@
     },
     {
       "name": "weetabix",
-      "description": "a well combines starch mixture for kids",
+      "description": "oat mixture full of carbs",
       "origin": "kenya",
-      "price": "450",
-      "id": "UqMO9ocWkk0"
+      "price": "110",
+      "id": "vuXjyJJ1SpY"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
